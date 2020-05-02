@@ -1,4 +1,4 @@
-# Cara Menjalakannya
+# Cara Menjalankannya
 - Copy project ke lokal device: `git clone https://github.com/ahmadarif/async-programming-nodejs`
 - Install dependency yang diperlukan: `npm install`
 - Jalankan program: `node index.js`
