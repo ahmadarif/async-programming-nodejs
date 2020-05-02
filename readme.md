@@ -4,7 +4,7 @@
 - Jalankan program: `node index.js`
 
 # URL Lists
-1. http://localhost:3000 -> url untuk simulasi esksekusi proses yang berat
+1. http://localhost:3000 -> url untuk simulasi eksekusi proses yang berat
 2. http://localhost:3000/hi -> url lain untuk mengecek apakah terjadi blocking event loop atau tidak
 
 # List Belajar
